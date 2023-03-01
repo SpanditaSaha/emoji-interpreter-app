@@ -1,2 +1,3 @@
 # emoji-interpreter-app
-Created with CodeSandbox
+
+This app takes user input as an emoji and tells the meaning of that emoji.
